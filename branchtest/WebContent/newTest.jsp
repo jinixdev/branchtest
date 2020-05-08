@@ -8,5 +8,6 @@
 </head>
 <body>
 	branch 테스트
+	이메일 테스트~~!!
 </body>
 </html>
