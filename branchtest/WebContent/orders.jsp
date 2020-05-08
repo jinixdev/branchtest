@@ -10,6 +10,6 @@
 master 지니
 	
 	branch test 중입니다
-	
+	마스터에서 다시~!
 </body>
 </html>
